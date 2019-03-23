@@ -7,13 +7,26 @@ title: Presentations | Bernard Huang
   <p>Here's a collection of my presentations on growth & marketing. I try to cover tactics and implementation as much as possible. Enjoy!</p>
   <ul>
     <li>
+      How to Create Content that Captures More Organic Traffic
+      <br>
+      <b><a target="_blank" href="https://www.slideshare.net/bernardjhuang/clearscope-how-to-create-content-that-captures-more-organic-traffic">[slides]</a></b>
+      <p class="small"><em>Last updated 3/13/19</em></p>
+      <p>Talk given to Traffic Think Tanks (TTT), an online SEO community. </p>
+    </li>
+    <li>
+      How Machine Learning is Changing Search Engine Optimization (SEO)
+      <br>
+      <b><a target="_blank" href="https://www.slideshare.net/bernardjhuang/how-machine-learning-is-changing-search-engine-optimization-seo">[slides]</a></b>
+      <p class="small"><em>Last updated 2/13/19</em></p>
+      <p>Talk given to IBM THINK 2019 participants.</p>
+    </li>
+    <li>
       How to Think About Early Stage Company Growth & 500 Startups Hell Week Kickoff
       <br>
       <b><a target="_blank" href="https://www.slideshare.net/bernardjhuang/how-to-think-about-early-stage-company-growth">[slides]</a></b>
       <p class="small"><em>Last updated 7/30/17</em></p>
       <p>Introduction to the 500 Startups early stage company growth process. Kicked off Hell Week for 500 Startups batch 22.</p>
     </li>
-    
     <li>
       The Content Marketer's SEO playbook
       <br>
