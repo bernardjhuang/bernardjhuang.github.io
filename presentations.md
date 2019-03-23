@@ -12,7 +12,7 @@ title: Presentations | Bernard Huang
       <b><a target="_blank" href="https://www.slideshare.net/bernardjhuang/clearscope-how-to-create-content-that-captures-more-organic-traffic">[slides]</a></b>
       <b><a target="_blank" href="https://www.youtube.com/watch?v=CR3G8lG4bCs">[youtube]</a></b>
       <p class="small"><em>Last updated 3/13/19</em></p>
-      <p>Talk given to Traffic Think Tanks (TTT), an online SEO community. </p>
+      <p>Talk given to <a href="https://trafficthinktank.com/">Traffic Think Tank (TTT)</a>, an online SEO community. </p>
     </li>
     <li>
       How Machine Learning is Changing Search Engine Optimization (SEO)
