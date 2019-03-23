@@ -1,0 +1,16 @@
+# Site settings
+title: Bernard Huang
+email: b[at]bernardjhuang.com
+description: Come check out Bernard Huang's personal website. Currently working on Clearscope, TwitchMetrics, Mushi Labs, and 500 Startups. Links to current and past work, projects, and presentations.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://bernardjhuang.com"
+twitter_username: bernardjhuang
+
+# Build settings
+markdown: kramdown
+
+# Outputting
+permalink: /yoga/:title/
+
+plugins:
+  - jekyll-sitemap
