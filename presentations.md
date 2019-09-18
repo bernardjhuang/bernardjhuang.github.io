@@ -7,12 +7,11 @@ title: Presentations | Bernard Huang
   <p>Here's a collection of my presentations on growth & marketing. I try to cover tactics and implementation as much as possible. Enjoy!</p>
   <ul>
     <li>
-      How to Create Content that Captures More Organic Traffic
+      When to consider SEO for your startup
       <br>
-      <b><a target="_blank" href="https://www.slideshare.net/bernardjhuang/clearscope-how-to-create-content-that-captures-more-organic-traffic">[slides]</a></b>
-      <b><a target="_blank" href="https://www.youtube.com/watch?v=CR3G8lG4bCs">[youtube]</a></b>
-      <p class="small"><em>Last updated 3/13/19</em></p>
-      <p>Talk given to <a href="https://trafficthinktank.com/">Traffic Think Tank (TTT)</a>, an online SEO community. </p>
+      <b><a target="_blank" href="https://www.slideshare.net/bernardjhuang/when-to-consider-seo-for-your-startup">[slides]</a></b>
+      <p class="small"><em>Last updated 9/18/19</em></p>
+      <p>Talk given to the participants of the Product Qualified Summit.</p>
     </li>
     <li>
       How Machine Learning is Changing Search Engine Optimization (SEO)
