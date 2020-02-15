@@ -4,8 +4,15 @@ title: Presentations | Bernard Huang
 ---
 <div class="home">
   <h1> Presentations </h1>
-  <p>Here's a collection of my presentations on growth & marketing. I try to cover tactics and implementation as much as possible. Enjoy!</p>
+  <p>Here's a collection of my previous presentations. Enjoy!</p>
   <ul>
+    <li>
+      How SEO works in 2020: An in-depth inquiry into Google's algorithm
+      <br>
+      <b><a target="_blank" href="https://www.slideshare.net/bernardjhuang/how-seo-works-in-2020-an-indepth-inquiry-into-googles-algorithm">[slides]</a></b>
+      <p class="small"><em>Last updated 2/12/19</em></p>
+      <p>Talk given at the Online Marketing Conference Sydney in Australia.</p>
+    </li>
     <li>
       When to consider SEO for your startup
       <br>
