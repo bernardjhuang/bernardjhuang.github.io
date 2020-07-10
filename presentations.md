@@ -9,9 +9,9 @@ title: Presentations | Bernard Huang
     <li>
       How SEO works in 2020: An in-depth inquiry into Google's algorithm
       <br>
-      <b><a target="_blank" href="https://www.slideshare.net/bernardjhuang/how-seo-works-in-2020-an-indepth-inquiry-into-googles-algorithm">[slides]</a></b>
-      <p class="small"><em>Last updated 2/12/19</em></p>
-      <p>Talk given at the Online Marketing Conference Sydney in Australia.</p>
+      <b><a target="_blank" href="https://www.slideshare.net/bernardjhuang/how-seo-works-in-2020-an-indepth-inquiry-into-googles-algorithm">[slides]</a> | <a target="_blank" href="https://www.writeraccess.com/webinar-archive/how-google-search-works-in-2020-the-latest-on-googles-algorithm/">[webinar]</a></b>
+      <p class="small"><em>Last updated 3/12/20</em></p>
+      <p>Talk given at the Online Marketing Conference Sydney in Australia & WriterAccess webinar.</p>
     </li>
     <li>
       When to consider SEO for your startup
