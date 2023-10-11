@@ -4,8 +4,22 @@ title: Presentations | Bernard Huang
 ---
 <div class="home">
   <h1> Presentations </h1>
-  <p>Here's a collection of my previous presentations. Enjoy!</p>
+  <p>Here's a collection of my previous presentations.</p>
   <ul>
+    <li>
+      What’s Going On With SEO in 2023
+      <br>
+      <b><a target="_blank" href="https://docs.google.com/presentation/d/14dvnRBs1CZk-DTSEeEL8Ye_orOpuzBHWOk_zqFT9-VE/edit">[slides]</a> | <a target="_blank" href="https://youtu.be/K71bQEDY5oE">[webinar]</a></b>
+      <p class="small"><em>Last updated 8/11/23</em></p>
+      <p>Talk given to Clearscope audience on what's been happening with SEO.</p>
+    </li>
+    <li>
+      How to Rank SEO Content in the Era of AI
+      <br>
+      <b><a target="_blank" href="https://docs.google.com/presentation/d/1RrnEb1ipXEhYvnHrq2aHknsuXteXw3lr9ACrI6DAAXE/edit#slide=id.g25fccfb1216_0_66">[slides]</a> | <a target="_blank" href="https://youtu.be/ZytMamXMG0M">[webinar]</a></b>
+      <p class="small"><em>Last updated 10/10/23</em></p>
+      <p>Talk given to Richmond Tech Council, Digital Marketer's Organization, and webinar participants about the impact of LLMs, SGE, and AI on SEO.</p>
+    </li>
     <li>
       How SEO works in 2020: An in-depth inquiry into Google's algorithm
       <br>
