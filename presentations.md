@@ -63,6 +63,8 @@ title: Presentations | Bernard Huang
     <li>
       How to Think About Early Stage Company Growth & 500 Startups Hell Week Kickoff
       <br>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/oTtBHev9cCw?si=_nfWdpTNxFqammjW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      <br>
       <b><a target="_blank" href="https://www.slideshare.net/bernardjhuang/how-to-think-about-early-stage-company-growth">[slides]</a></b>
       <p class="small"><em>Last updated 7/30/17</em></p>
       <p>Introduction to the 500 Startups early stage company growth process. Kicked off Hell Week for 500 Startups batch 22.</p>
@@ -76,6 +78,8 @@ title: Presentations | Bernard Huang
     </li>
     <li>
       SEO 101
+      <br>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/lfZvZYrvMhE?si=Kc2NiatzfVssKIpX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
       <br>
       <b><a target="_blank" href="https://www.slideshare.net/bernardjhuang/seo-101-marketing-hell-week">[slides]</a></b>
       <b><a target="_blank" href="https://www.youtube.com/watch?v=lfZvZYrvMhE">[youtube]</a></b>
