@@ -4,7 +4,7 @@ title: Presentations | Bernard Huang
 ---
 <div class="home">
   <h1> Presentations </h1>
-  <p>Here's a collection of my previous presentations.</p>
+  <p>Here's a collection of my previous presentations on SEO, Content, Startups, and Bootstrapping:</p>
   <ul>
     <li>
       What’s Going On With SEO in 2023
