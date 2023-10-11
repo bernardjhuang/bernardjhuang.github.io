@@ -45,6 +45,8 @@ title: Presentations | Bernard Huang
     <li>
       When to consider SEO for your startup
       <br>
+      <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRiUSji268Bw-j2iQLH_R7YEZGdurAJ2iTAUGRj5i3MLnpbTUsqKw1oYF29Rf6krKIEKIJA4IN_TKm3/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+      <br>
       <b><a target="_blank" href="https://www.slideshare.net/bernardjhuang/when-to-consider-seo-for-your-startup">[slides]</a></b>
       <p class="small"><em>Last updated 9/18/19</em></p>
       <p>Talk given to the participants of the Product Qualified Summit.</p>
