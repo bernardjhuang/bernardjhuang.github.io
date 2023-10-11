@@ -54,7 +54,7 @@ title: Presentations | Bernard Huang
     <li>
       How Machine Learning is Changing Search Engine Optimization (SEO)
       <br>
-      <iframe src="https://www.slideshare.net/slideshow/embed_code/key/4txP1quEg5KM8?startSlide=1" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px;max-width: 100%;" allowfullscreen></iframe><div style="margin-bottom:5px"><strong></div>
+      <iframe src="https://www.slideshare.net/slideshow/embed_code/key/4txP1quEg5KM8?startSlide=1" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px;max-width: 100%;" allowfullscreen></iframe>
       <br>
       <b><a target="_blank" href="https://www.slideshare.net/bernardjhuang/how-machine-learning-is-changing-search-engine-optimization-seo">[slides]</a></b>
       <p class="small"><em>Last updated 2/13/19</em></p>
