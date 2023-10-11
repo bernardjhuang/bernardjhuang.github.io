@@ -21,6 +21,13 @@ title: Presentations | Bernard Huang
       <p>Talk given to Richmond Tech Council, Digital Marketer's Organization, and webinar participants about the impact of LLMs, SGE, and AI on SEO.</p>
     </li>
     <li>
+      The Future of SEO Content
+      <br>
+      <b><a target="_blank" href="https://docs.google.com/presentation/d/1q98cYAEpz3iveE35OIMe_gRgUUfI_ZOi-yIJra0kdSo/edit#slide=id.g22b336347ca_0_242">[slides]</a> | <a target="_blank" href="https://www.youtube.com/watch?v=0D09Qu0xMds">[webinar]</a></b>
+      <p class="small"><em>Last updated 4/10/23</em></p>
+      <p>Talk given to webinar participants at Minuttia agency.</p>
+    </li>
+    <li>
       How SEO works in 2020: An in-depth inquiry into Google's algorithm
       <br>
       <b><a target="_blank" href="https://www.slideshare.net/bernardjhuang/how-seo-works-in-2020-an-indepth-inquiry-into-googles-algorithm">[slides]</a> | <a target="_blank" href="https://www.writeraccess.com/webinar-archive/how-google-search-works-in-2020-the-latest-on-googles-algorithm/">[webinar]</a></b>
