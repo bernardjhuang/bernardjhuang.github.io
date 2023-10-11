@@ -9,6 +9,7 @@ title: Presentations | Bernard Huang
     <li>
       What’s Going On With SEO in 2023
       <br>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/K71bQEDY5oE?si=hh15Y_UWYyhswdN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
       <b><a target="_blank" href="https://docs.google.com/presentation/d/14dvnRBs1CZk-DTSEeEL8Ye_orOpuzBHWOk_zqFT9-VE/edit">[slides]</a> | <a target="_blank" href="https://youtu.be/K71bQEDY5oE">[webinar]</a></b>
       <p class="small"><em>Last updated 8/11/23</em></p>
       <p>Talk given to Clearscope audience on what's been happening with SEO.</p>
