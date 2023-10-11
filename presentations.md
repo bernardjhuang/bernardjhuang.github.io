@@ -18,6 +18,8 @@ title: Presentations | Bernard Huang
     <li>
       How to Rank SEO Content in the Era of AI
       <br>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/ZytMamXMG0M?si=dnAB8K1s_6NzRMPe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      <br>
       <b><a target="_blank" href="https://docs.google.com/presentation/d/1RrnEb1ipXEhYvnHrq2aHknsuXteXw3lr9ACrI6DAAXE/edit#slide=id.g25fccfb1216_0_66">[slides]</a> | <a target="_blank" href="https://youtu.be/ZytMamXMG0M">[webinar]</a></b>
       <p class="small"><em>Last updated 10/10/23</em></p>
       <p>Talk given to Richmond Tech Council, Digital Marketer's Organization, and webinar participants about the impact of LLMs, SGE, and AI on SEO.</p>
@@ -25,12 +27,16 @@ title: Presentations | Bernard Huang
     <li>
       The Future of SEO Content
       <br>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/0D09Qu0xMds?si=LGlzPDHf9g2qDmEy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      <br>
       <b><a target="_blank" href="https://docs.google.com/presentation/d/1q98cYAEpz3iveE35OIMe_gRgUUfI_ZOi-yIJra0kdSo/edit#slide=id.g22b336347ca_0_242">[slides]</a> | <a target="_blank" href="https://www.youtube.com/watch?v=0D09Qu0xMds">[webinar]</a></b>
       <p class="small"><em>Last updated 4/10/23</em></p>
       <p>Talk given to webinar participants at Minuttia agency.</p>
     </li>
     <li>
       How SEO works in 2020: An in-depth inquiry into Google's algorithm
+      <br>
+      <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQbJX7NnNLtY30Sfd7GD8hhdJ6V3xlKclMsX6ro818ePj3VdTiyEUX9gLMZ8_-uSJsuVRmWV17D_UyM/embed?start=false&loop=false&delayms=10000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
       <br>
       <b><a target="_blank" href="https://www.slideshare.net/bernardjhuang/how-seo-works-in-2020-an-indepth-inquiry-into-googles-algorithm">[slides]</a> | <a target="_blank" href="https://www.writeraccess.com/webinar-archive/how-google-search-works-in-2020-the-latest-on-googles-algorithm/">[webinar]</a></b>
       <p class="small"><em>Last updated 3/12/20</em></p>
